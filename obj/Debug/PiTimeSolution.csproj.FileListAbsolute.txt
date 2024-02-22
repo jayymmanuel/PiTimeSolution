@@ -1,0 +1,98 @@
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\studentInfo.mdf
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\studentInfo_log.ldf
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.exe.config
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.exe
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignColors.dll
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\CalculateLibrary.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignColors.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PiTimeSolution.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\ButtonStyle\RoundButtonStyle.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\authoriseUser.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\loginUI.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\registerUI.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\Theme\MenuButtonTheme.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u1.HomePage\HomePage.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u2.Semester\ModuleSelection.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\SavedWindow.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\storeModule.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u4.Analytics\ModuleAnalytics.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u5.Capture\CaptureStudy.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u6.Summary\Summary.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u7.ViewData\viewDataUI.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\App.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\authoriseUser.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\loginUI.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\registerUI.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u1.HomePage\HomePage.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u2.Semester\ModuleSelection.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\SavedWindow.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\storeModule.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u4.Analytics\ModuleAnalytics.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u5.Capture\CaptureStudy.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u6.Summary\Summary.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u7.ViewData\viewDataUI.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_Content.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_MarkupCompile.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_MarkupCompile.lref
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.g.resources
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.Properties.Resources.resources
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PiTimeSolution.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PiTimeSolution.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PiTimeSo.21740108.Up2Date
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.exe
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.pdb
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\studentInfo.mdf
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\studentInfo_log.ldf
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\PiTimeSolution.exe.config
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\PiTimeSolution.exe
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\PiTimeSolution.pdb
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\MaterialDesignColors.dll
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\CalculateLibrary.pdb
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\MaterialDesignColors.pdb
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\ButtonStyle\RoundButtonStyle.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\RoundButtonStyle.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u1.HomePage\MenuButtonTheme.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\authoriseUser.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\loginUI.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\registerUI.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u1.HomePage\HomePage.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u2.Semester\ModuleSelection.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u3.Store\SavedWindow.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u3.Store\storeModule.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u4.Analytics\ModuleAnalytics.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u5.Capture\CaptureStudy.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u6.Summary\Summary.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u7.ViewData\viewDataUI.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution_Content.g.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution_MarkupCompile.cache
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution_MarkupCompile.lref
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\App.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\authoriseUser.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\loginUI.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\StartUp UIs\registerUI.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u1.HomePage\HomePage.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u2.Semester\ModuleSelection.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u3.Store\SavedWindow.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u3.Store\storeModule.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u4.Analytics\ModuleAnalytics.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u5.Capture\CaptureStudy.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u6.Summary\Summary.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\u7.ViewData\viewDataUI.baml
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.g.resources
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.Properties.Resources.resources
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSo.21740108.Up2Date
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.exe
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\PiTimeSolution.pdb
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\Theme\MenuButtonTheme.baml

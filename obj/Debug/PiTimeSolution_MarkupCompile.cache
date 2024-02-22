@@ -1,0 +1,20 @@
+﻿PiTimeSolution
+
+
+winexe
+C#
+.cs
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\obj\Debug\
+PiTimeSolution
+none
+false
+DEBUG;TRACE
+\\Mac\Home\Downloads\PiTimeSolution\PiTimeSolution\App.xaml
+151088450203
+21691656934
+181993013260
+181508148566
+ButtonStyle\RoundButtonStyle.xaml;StartUp UIs\RoundButtonStyle.xaml;StartUp UIs\authoriseUser.xaml;StartUp UIs\loginUI.xaml;StartUp UIs\registerUI.xaml;Theme\MenuButtonTheme.xaml;u1.HomePage\MenuButtonTheme.xaml;u1.HomePage\HomePage.xaml;u2.Semester\ModuleSelection.xaml;u3.Store\SavedWindow.xaml;u3.Store\storeModule.xaml;u4.Analytics\ModuleAnalytics.xaml;u5.Capture\CaptureStudy.xaml;u6.Summary\Summary.xaml;u7.ViewData\viewDataUI.xaml;
+
+False
+

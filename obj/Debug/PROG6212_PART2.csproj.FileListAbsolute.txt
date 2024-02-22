@@ -1,0 +1,96 @@
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.AssemblyReference.cache
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\ButtonStyle\RoundButtonStyle.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\authoriseUser.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\loginUI.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\registerUI.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u1.HomePage\HomePage.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u2.Semester\ModuleSelection.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\SavedWindow.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\storeModule.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u4.Analytics\ModuleAnalytics.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u5.Capture\CaptureStudy.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u6.Summary\Summary.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u7.ViewData\viewDataUI.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\App.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_Content.g.cs
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_MarkupCompile.cache
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_MarkupCompile.lref
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\studentInfo.mdf
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\studentInfo_log.ldf
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.exe.config
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.exe
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.pdb
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\CalculateLibrary.pdb
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\App.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\authoriseUser.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\loginUI.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\registerUI.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u1.HomePage\HomePage.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u2.Semester\ModuleSelection.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\SavedWindow.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\storeModule.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u4.Analytics\ModuleAnalytics.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u5.Capture\CaptureStudy.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u6.Summary\Summary.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\u7.ViewData\viewDataUI.baml
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.g.resources
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.Properties.Resources.resources
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.GenerateResource.cache
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.CoreCompileInputs.cache
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.CopyComplete
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.exe
+C:\Users\Emmsnuel\Desktop\10081944_PROG6212_PART2\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\studentInfo.mdf
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\studentInfo_log.ldf
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.exe.config
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.exe
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\PROG6212_PART2.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignColors.dll
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\CalculateLibrary.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignColors.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\ButtonStyle\RoundButtonStyle.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\Theme\MenuButtonTheme.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\authoriseUser.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\loginUI.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\registerUI.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u1.HomePage\HomePage.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u2.Semester\ModuleSelection.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\SavedWindow.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\storeModule.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u4.Analytics\ModuleAnalytics.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u5.Capture\CaptureStudy.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u6.Summary\Summary.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u7.ViewData\viewDataUI.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_Content.g.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_MarkupCompile.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2_MarkupCompile.lref
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\App.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\authoriseUser.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\loginUI.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\StartUp UIs\registerUI.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u1.HomePage\HomePage.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u2.Semester\ModuleSelection.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\SavedWindow.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u3.Store\storeModule.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u4.Analytics\ModuleAnalytics.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u5.Capture\CaptureStudy.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u6.Summary\Summary.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\u7.ViewData\viewDataUI.baml
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.g.resources
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.Properties.Resources.resources
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212.3CAB5F98.Up2Date
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.exe
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\PROG6212_PART2.pdb

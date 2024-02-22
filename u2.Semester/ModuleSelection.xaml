@@ -1,0 +1,268 @@
+﻿<Window x:Class="PiTimeSolution.u2.Semester.ModuleSelection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:PiTimeSolution.u2.Semester"
+        mc:Ignorable="d"
+        Title="ModuleSelection" Height="560" Width="800"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown">
+
+
+
+    <Border CornerRadius="30">
+        <Border.Background>
+            <ImageBrush ImageSource="moduleSeleection back img.JPG" Stretch="UniformToFill"/>
+        </Border.Background>
+        <Border CornerRadius="15"
+           
+            BorderThickness="1">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="35"/>
+                        <ColumnDefinition Width="35"/>
+                        <ColumnDefinition Width="15"/>
+                    </Grid.ColumnDefinitions>
+
+
+                    <Button x:Name="btnMinimize"                           
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="1"
+                            Click="btnMinimize_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#696969"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="30" Height="18" CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="btnClose"
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="10"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Click="btnClose_Click">
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#783690"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="30" Height="18" CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+
+                <StackPanel Width="700"
+                            Grid.Row="1"
+                            Orientation="Vertical"
+                            Margin="10,20,10,0"
+                            HorizontalAlignment="Center">
+
+                    <TextBlock Text="ENTER SEMESTER INFORMATION" FontSize="25" FontFamily="Basement Grotesque Black" FontWeight="Bold"
+                              TextWrapping="Wrap" TextAlignment="Center" Foreground="White" Width="300"/>
+
+                    <TextBlock Margin="0 50 100 0" HorizontalAlignment="Center" FontSize="17" FontFamily="Basement Grotesque Black"
+                           FontWeight="Bold" Text="Enter the amount of Module(s) : " 
+                               TextWrapping="Wrap" 
+                               TextAlignment="Center" Foreground="White"/>
+
+
+
+                    <TextBox Margin="410 -32 0 0" x:Name="amountOfModules" Width="62"  FontSize="25" FontFamily="Basement Grotesque Black"
+                         BorderThickness="0,0,0,2" BorderBrush="White" HorizontalAlignment="Center" HorizontalContentAlignment="Center"
+                             Foreground="#783690" Height="35" Background="Transparent"/>
+
+                    <TextBlock Margin="0 50 100 0" HorizontalAlignment="Center" FontSize="17" FontFamily="Basement Grotesque Black"
+                           FontWeight="Bold" Text="Number of Weeks in Semester : " 
+                               TextWrapping="Wrap" 
+                               TextAlignment="Center" Foreground="White"/>
+
+
+
+
+
+                    <TextBox Margin="410 -32 0 0" x:Name="txtNumberOfWeeks" Width="62" FontSize="25" FontFamily="Basement Grotesque Black" 
+                         FontWeight="Bold" BorderThickness="0,0,0,2" BorderBrush="White" HorizontalAlignment="Center" HorizontalContentAlignment="Center"
+                             Foreground="#783690" Height="35" Background="Transparent"/>
+
+                    <TextBlock Text="Semester Start Date :"
+                               Foreground="White"
+                               FontSize="17"
+                               FontWeight="Medium"
+                               FontFamily="Basement Grotesque Black"
+                               Margin="0,50,210,0"
+                                TextWrapping="Wrap"
+                               TextAlignment="Center"/>
+
+
+
+
+                    <DatePicker x:Name="txtSemesterStartDt" Text="Select a Date" FontSize="13" FontFamily="Basement Grotesque Black" 
+                                Foreground="#783690" Width="200" Margin="280 -32 0 0" 
+                                BorderBrush="White" SelectedDate="03/16/2022" SelectedDateFormat="Short"
+                                HorizontalContentAlignment="Center"/>
+
+                    <Button x:Name="btnNext"
+                            BorderThickness="0"
+                            Content="NEXT"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Basement Grotesque Black"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Margin="0,100,0,0"
+                            Width="200"
+                            Click="btnNext_Click">
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#783690"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="150" Height="40" CornerRadius="20"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <TextBlock x:Name="ErrorMessage"
+                               Text="You have entered erroneous input, please check your input"
+                               Foreground="Red"
+                               FontSize="11"
+                               FontWeight="Medium"
+                               FontFamily="Basement Grotesque Black"
+                               Margin="0,-160,0,0"
+                               TextWrapping="Wrap"
+                               TextAlignment="Center" Height="24"
+                               Visibility="Hidden"/>
+
+
+                </StackPanel>
+                <StackPanel Width="350"
+                            Grid.Row="1"
+                            Orientation="Vertical"
+                                HorizontalAlignment="Left"
+                            Margin="10,60,10,0">
+
+                    <Button x:Name="btnCancel"
+                            BorderThickness="0"
+                            Content="➜"
+                            Foreground="White"
+                            FontSize="20"
+                            FontFamily="Basement Grotesque Black"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Margin="-50,410,200,0"
+                            Width="200"
+                            Click="btnCancel_Click" RenderTransformOrigin="0.5,0.5">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="180"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#32174d  "/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="80" Height="40" CornerRadius="20"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                </StackPanel>
+
+
+
+
+
+
+
+            </Grid>
+        </Border>
+
+    </Border>
+</Window>

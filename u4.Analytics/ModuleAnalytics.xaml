@@ -1,0 +1,190 @@
+﻿<Window x:Class="PiTimeSolution.u4.Analytics.ModuleAnalytics"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"        
+        xmlns:local="clr-namespace:PiTimeSolution.u4.Analytics"
+        mc:Ignorable="d"
+    Title="ModuleAnalytics" Height="560" Width="800"
+    TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown">
+
+
+
+    <Border CornerRadius="30">
+        <Border.Background>
+            <ImageBrush ImageSource="report back img.JPG" Stretch="UniformToFill"/>
+        </Border.Background>
+        <Border CornerRadius="15"
+           
+            BorderThickness="1">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="35"/>
+                        <ColumnDefinition Width="35"/>
+                        <ColumnDefinition Width="15"/>
+                    </Grid.ColumnDefinitions>
+
+
+                    <Button x:Name="btnMinimize"                           
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="1"
+                            Click="btnMinimize_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#696969"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="30" Height="18" CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="btnClose"
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="10"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Click="btnClose_Click">
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#783690"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="30" Height="18" CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                </Grid>
+
+                <StackPanel Width="700"
+                            Grid.Row="1"
+                            Orientation="Vertical"
+                            Margin="10,0,10,0" >
+
+
+                </StackPanel>
+
+
+
+                <StackPanel Width="700"
+                            Grid.Row="1"
+                            Orientation="Vertical"
+                            Margin="10,20,10,0"
+                            HorizontalAlignment="Center">
+
+
+
+
+
+                            <TextBlock Text="ANALYTICS"
+                               Foreground="White"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Basement Grotesque Black"
+                               Margin="0,0,0,0"
+                               TextWrapping="Wrap"
+                               TextAlignment="Center"
+                               HorizontalAlignment="Center"/>
+
+                    <TextBox IsReadOnly="True" Margin="0,40,0,0" x:Name="txtList" FontSize="16" FontFamily="Consolas" 
+                         BorderThickness="2,2,2,2" BorderBrush="Transparent" Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                             Foreground="White" Height="200" Width="380" Background="#381a40"/>
+
+
+
+
+
+                    <Button x:Name="btnHome"
+                            BorderThickness="0"
+                            Content="HOME  ➜"
+                            Foreground="White"
+                            FontSize="13"
+                            FontFamily="Basement Grotesque Black"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Margin="0,30,0,0"
+                            Click="btnHome_Click">
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#783690"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#232b2b"/>
+                                    </Trigger>
+                                </Style.Triggers>
+
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="150" Height="40" CornerRadius="20"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                </StackPanel>
+
+    
+
+            </Grid>
+        </Border>
+
+    </Border>
+</Window>

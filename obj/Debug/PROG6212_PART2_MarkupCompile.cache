@@ -1,0 +1,20 @@
+﻿PROG6212_PART2
+
+
+winexe
+C#
+.cs
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\obj\Debug\
+PROG6212_PART2
+none
+false
+DEBUG;TRACE
+\\Mac\Home\Downloads\PROG6212_PART2\PROG6212_PART2\App.xaml
+131338819034
+21691656934
+181993013260
+181979434152
+ButtonStyle\RoundButtonStyle.xaml;StartUp UIs\authoriseUser.xaml;StartUp UIs\loginUI.xaml;StartUp UIs\registerUI.xaml;Theme\MenuButtonTheme.xaml;u1.HomePage\HomePage.xaml;u2.Semester\ModuleSelection.xaml;u3.Store\SavedWindow.xaml;u3.Store\storeModule.xaml;u4.Analytics\ModuleAnalytics.xaml;u5.Capture\CaptureStudy.xaml;u6.Summary\Summary.xaml;u7.ViewData\viewDataUI.xaml;
+
+False
+
